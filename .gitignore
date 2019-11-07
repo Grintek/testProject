@@ -1,0 +1,10 @@
+# Project exclude paths
+/target/
+/frontend/node_modules/
+/frontend/build/
+
+# IntelliJ project files
+.idea
+*.iml
+/dist/
+/build/
